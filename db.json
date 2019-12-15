@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "name": "Dr Pepper"
+    },
+    {
+      "id": 2,
+      "name": "Fanta"
+    },
+    {
+      "id": "2a1c1b74-4fad-4328-abfa-85a137d7b05b",
+      "name": "Squirt"
+    }
+  ]
+}
